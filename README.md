@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunalmishrvats" target="blank"><img src="https://img.shields.io/twitter/follow/kunalmishrvats?logo=twitter&style=for-the-badge" alt="kunalmishrvats" /></a> </p>
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **Aws Bedrock**
 
 - 💬 Ask me about **machine learning ,full stack development**
 
