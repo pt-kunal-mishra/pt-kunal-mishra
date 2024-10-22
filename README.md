@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kunal kumar mishra</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast & Software Developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer & Gen-AI Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pt-kunal-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="pt-kunal-mishra" /> </p>
 
