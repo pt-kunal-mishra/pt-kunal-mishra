@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kunalmishravats@gmail.com**
 
-- ⚡ Fun fact **I am cricket lover**
+- ⚡ Fun fact **I am a cricket lover**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
